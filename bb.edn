@@ -1,0 +1,6 @@
+{
+ :tasks {
+         test (print "hi")
+         build-dev-blog (shell "java -jar ")
+         }
+ }
